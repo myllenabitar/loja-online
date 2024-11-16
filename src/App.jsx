@@ -23,7 +23,6 @@ return (
   <button onClick={handleClick} style={{marginRight:'1rem'}}>Notebook</button>
   <button onClick={handleClick} style={{marginRight:'1rem'}}>Smartphone</button>
   <button onClick={handleClick} style={{marginRight:'1rem'}}>Smartwatch</button>
-  <button onClick={handleClick} style={{marginRight:'1rem'}}>Câmera</button>
   <button onClick={handleClick} style={{marginRight:'1rem'}}>Tablet</button>
   <button onClick={handleClick} style={{marginRight:'1rem'}}>Smartspeaker</button>
   <Produto produto={produto} />
