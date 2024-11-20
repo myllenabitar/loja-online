@@ -1,6 +1,6 @@
 import React from "react";
 
-const Produto = ({ produto }) => {
+const Produto = ({ produto }) => {          
     const [dados, setDados] = React.useState();
 
     React.useEffect(() => {
