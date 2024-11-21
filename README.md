@@ -1,4 +1,4 @@
-<h1 align="center">Testes em React</h1>
+<h1 align="center">Loja Online</h1>
 
 
 <h2>Badges:</h2>
