@@ -1,26 +1,73 @@
-<h1 align="center">Loja Online</h1>
+# Loja Online
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb867eb7-3e06-4ec8-9b55-878fa0856f34" alt="Demonstração do projeto em React + Vite">
+</p>
 
-<h2>Badges:</h2>
-Ultima versão: Novembro 2024.
+## 📚 Sobre o Projeto
+Este projeto foi iniciado com **React** e configurado utilizando **Vite**. Ele reúne experimentos e estudos realizados com essas tecnologias, incluindo o uso de APIs, gerenciamento de estados e otimizações de desempenho. É parte do meu aprendizado contínuo no desenvolvimento front-end.
 
-<h2>Descrição de Projeto</h2>
-Projeto consiste em botões de menu onde ao clique é realizado o fetch de uma api e aparece o nome, preço e foto do produto e se ele ainda está disponível para compra.
+---
 
-<h2>Status do Projeto</h2><h4 align="center">:star: Projeto Concluído! :star:</h4>
+## 🚧 Status do Projeto
+**Concluído**
 
-<h2>:hammer:Funcionalidades e Demonstração da Aplicação</h2>
-Aprensenta um menu onde ao clique é puxado dados de uma api onde mostra o produto, foto do produto, preço e se ainda está disponivel, também se consegue navegar por outros produtos.
+---
 
-<h2>Acesso ao projeto</h2>
-npm run dev
+## 🔧 Funcionalidades
+- Consumo de APIs externas utilizando `fetch` e outras ferramentas.
+- Gerenciamento de estados com React Hooks.
+- Estilização com CSS e HTML.
 
-<h2> Tecnologias Utilizadas</h2>
-<h3>React + Vite</h3>
-<h3> JavaScript</h3>
-<h3> HTML</h3>
-<h3> CSS</h3>
+---
 
-<H2>Autores</H2>
-<h3>Myllena Bitar</h3>
-<img src="https://avatars.githubusercontent.com/u/111917539?v=4" alt="Myllena Bitar">
+## 📂 Acesso ao Projeto
+Para acessar e rodar o projeto localmente:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/myllenabitar/loja-online.git
+   ```
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
+3. Inicie o servidor local:
+   ```bash
+   npm run dev
+   # ou
+   yarn dev
+   ```
+4. Abra no navegador:
+   ```
+   http://localhost:5173
+   ```
+5. Você pode começar a editar as páginas modificando os arquivos dentro da pasta `src`. As mudanças serão automaticamente refletidas no navegador.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **React** 
+- **JavaScript**  
+- **HTML**  
+- **CSS**
+
+---
+
+## 👩‍💻 Autora
+
+**Myllena Bitar**  
+Desenvolvedora front-end em transição de carreira, apaixonada por tecnologia e design.
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/111917539?v=4" alt="Myllena Bitar" width="100px">
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-MyllenaBitar-blue?logo=github)](https://github.com/MyllenaBitar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MyllenaBitar-blue?logo=linkedin)](https://linkedin.com/in/MyllenaBitar)
+
+---
+
+## 📅 Última atualização
+Novembro de 2024
